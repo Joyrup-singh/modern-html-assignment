@@ -1,0 +1,4 @@
+List any 3 ways which help us in improving the accessibility of HTML
+1.Semantic HTML. Semantic HTML means using correct HTML elements for their correct purpose as much as possible.
+2.Headings Are Important
+3.Alternative Text.

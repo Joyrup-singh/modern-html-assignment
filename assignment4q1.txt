@@ -1,0 +1,6 @@
+list out features of Html5?
+1. Semantic elements
+2. Audio and Video Support
+3. Canvas elements
+4. Local Storage
+5. Geolocation Api
